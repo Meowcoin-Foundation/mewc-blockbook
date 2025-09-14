@@ -23,9 +23,9 @@
       "package_revision": "satoshilabs-1",
       "system_user": "mewc",
       "version": "2.0.4",
-      "binary_url": "https://github.com/Meowcoin-Foundation/Meowcoin/releases/download/Meow-v2.0.4/meowcoin-2.0.4-1733b19cc-x86_64-linux-gnu.tar.gz",
+      "binary_url": "https://github.com/Meowcoin-Foundation/Meowcoin/releases/download/Meow-v3.0.3/meowcoin-3.0.3-ee46926-x86_64-linux-gnu.tar.gz",
       "verification_type": "sha256",
-      "verification_source": "8d40743f9eb8664c0132585a4098ca5d1cbd85ac8df9eadbd0d1d3460932f28d",
+      "verification_source": "aa50a96f4aca04bad0a06252fd7df694cc87faab4be72dacfe3c7d558b24b193",
       "extract_command": "tar -C backend --strip 1 -xf",
       "exclude_files": [
         "bin/meowcoin-qt"
